@@ -6,9 +6,6 @@ export default function Home(props) {
       <div>hihihihi</div>
       <div></div>
       <div></div>
-      <div></div>
-      <div></div>
-      <main>hi22</main>
     </>
   );
 }
