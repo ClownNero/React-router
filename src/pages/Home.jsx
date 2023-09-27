@@ -5,6 +5,7 @@ export default function Home(props) {
     <>
       <div>Home2</div>
       <div></div>
+      <div></div>
     </>
   );
 }
