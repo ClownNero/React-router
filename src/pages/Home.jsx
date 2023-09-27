@@ -8,7 +8,7 @@ export default function Home(props) {
       <div></div>
       <div></div>
       <div></div>
-      <main>hi</main>
+      <main>hi22</main>
     </>
   );
 }
